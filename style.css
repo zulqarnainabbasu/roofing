@@ -10,7 +10,7 @@ body{
     color: #fff;}
 
 .hero-section{
-        background-image: url(/Images/hero-section.png);
+        background-image: url(hero-section.png);
         background-size:100%;
         background-position: cover;
         opacity: 90%;
@@ -75,4 +75,5 @@ footer{
 #navbarNav>ul>li>a{
     color: white;
     font-weight: bold;
+
 }
